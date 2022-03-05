@@ -1,0 +1,6 @@
+*{margin: 0; }
+div{background-color: #001219;height: 100vh; } 
+h1{text-align: center; color: #ca6702; padding-top: 2%;}
+button{display: block; margin-left: 35%; width: 30%; background-color: #005f73;
+     margin-top: 4%; height: 9vh; border-radius: 5px;font-size: 14px; color: #ca6702;}
+button:hover{background-color:#ae2012 ; color: #e9d8a6;}     
